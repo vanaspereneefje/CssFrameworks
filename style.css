@@ -1,0 +1,9 @@
+body {
+    background-color: aliceblue;
+}
+
+.btn-custom:hover {
+    color: #fff;
+    background-color: #00b3db;
+    border-color: #170f80;
+}
